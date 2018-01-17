@@ -9,19 +9,14 @@ This repo is dedicated to the Pico-8 club at BYU-Idaho.
 
 ## useful/cool links and why
 
-- [Pretty Pico-8 API](https://neko250.github.io/pico8-api/)
+- [Pretty Pico-8 API](https://neko250.github.io/pico8-api/).
   May be a bit outdated sometimes, but really nice.
-
-- [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual)
+- [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual).
   Pretty good. Has a lot of detail.
-
-- [Pico-8 Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
-  These are advanced techniques, but it can be good to know about some of these things.
-
-- [Historic Post](https://www.lexaloffle.com/bbs/?tid=2008)
+- [Pico-8 Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations).
+- [Historic Post](https://www.lexaloffle.com/bbs/?tid=2008).
   This talks about the code limits and how compression helps out with it.
-
-- [Pico 8 Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=28207)
+- [Pico 8 Cheat Sheet](https://www.lexaloffle.com/bbs/?tid=28207).
    Also may be outdated barely, because of recent frequent updates.
 
 ## cool carts
