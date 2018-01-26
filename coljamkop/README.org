@@ -17,6 +17,8 @@
   room in the Science and Technology Center at BYU-Idaho on January 25, 2018.
 
 * Current Tasking
-  - [ ] Create a Trello board for current tasking.
+  - [X] Create a Trello board for current tasking.
   - [ ] Finish README to actually state relevant information.
   - [ ] Determine what /t_prime/ is.
+** Trello Board
+  [[https://trello.com/b/RDdkDl7G][Trello Board]] 
